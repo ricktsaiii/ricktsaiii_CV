@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: rgb(237,218,195);
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: rgb(127,106,95);
   text-decoration: none;
 }
 
@@ -575,6 +575,15 @@ section {
   opacity: 1;
   bottom: 0;
 }
+
+.portfolio-info a{
+color:#149ddd;
+}
+
+.portfolio-info a:hover{
+  color:#0266b8;
+  }
+
 
 @media (max-width: 768px) {
 
